@@ -1,0 +1,28 @@
+Opis zadania:
+
+1. Stwórz szablon strony na podstawie mockupu z wykorzystaniem HTML i CSS3.
+2. Strona sklada sie z 3 glównych czesci:
+   a) Header:
+     - górna czesc - znajduje sie tutaj glówny naglówek strony z szarym tlem.
+     - dolna czesc - znajduje sie nawigacja. Elementy nawigacyjne powinny miec w miare estetyczne odstepy i podkreslenia.
+		     Po najechaniu na konkretny element nawigacji -> tlo powinno sie zmienic na niebieskie. 
+		     Linki sa statyczne nie powinny wykonywac zadnych akcji.
+   b) Content:
+     - górna czesc - z lewej strony znajduje sie prostokat o rozmiarach 200px - wysokosc i 300px - szerokosc.
+                     Powinien miec obramowania na 3px i tlo koloru jasno niebieskiego.
+		
+		     z prawej strony powinien sie znajdowac prostokat, który przechowuje w srodku tekst.
+		     Obramowanie prostokata 3px. Wysokosc kontenera powinna miec 200px a szerokosc powinna byc rozciagnieta do konca strony.
+		     W srodku powinien znajdowac sie tekst, którego jest wiecej niz miejsca. Dodaj mozliwosc scrollowania w srodku (Wskazówka: CSS - wlasnosc "overflow")
+		
+     - dolna czesc - to prostokat rozciagniety na 100% szerokosci, wysokosc dowolna. W srodku prostokata powinien znajdowac sie okrag z czerwonym tlem.
+
+   c) Footer - stopka strony - (Sticky footer) Stopka strony powinna byc zawsze na samym dole strony bez zadnych odstepów. 
+		     Powinna miec tlo zielone, w lewym górnym rogu napis i w prawym dolnym równiez napis tak jak na mockupie.
+
+Skup sie na tym, zeby zadania byly wykonane mniej wiecej jak na mockupie, nie jeden do jednego, bo to tylko mockup. 
+Jako baze mozesz wziac zadanko 1, które jest na Google Drive.
+Odstepy miedzy sekcjami w htmlu powinny byc takie zeby strona wygladala estetycznie (wg Twojego uznania).
+Jesli cos bedzie Ci sprawialo wieksze problemy to mozesz to spokojnie zostawic i zrobimy to na kolejnej lekcji. 
+Nie musisz wszystkiego zrobic :) W razie pytan pisz.
+   
