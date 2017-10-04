@@ -1,0 +1,25 @@
+#search-box {
+  border: 3px solid;
+  width: 50%;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+header {
+  background: #ccc;
+}
+
+header div {
+  display: flex;
+  display: inline-block;
+}
+
+#logo {
+  width: 20%;
+}
